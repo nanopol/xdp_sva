@@ -9,3 +9,5 @@ sbatch repeatlengthdet.sh <Name of your .zip file containing FASTQ files> <Enric
 
 Usage example:
 sbatch repeatlengthdet.sh Nanopore_Data CRISPR
+
+In addition, you can download the Oxford Nanopore sequencing data described here: https://doi.org/10.1093/pnasnexus/pgae116 via this link: https://drive.google.com/file/d/1NKq9zAy21KSY0JzxUZkQTYxMXaz4aunb/view?usp=drive_link.
